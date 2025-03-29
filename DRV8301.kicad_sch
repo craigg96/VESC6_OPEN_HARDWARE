@@ -2352,7 +2352,7 @@
 	)
 	(text "C2923951"
 		(exclude_from_sim no)
-		(at 207.01 39.37 0)
+		(at 195.834 43.434 0)
 		(effects
 			(font
 				(size 1.27 1.27)

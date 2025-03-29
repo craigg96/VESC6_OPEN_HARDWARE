@@ -7243,7 +7243,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit"
 			(at 19.05 55.88 0)
 			(effects
 				(font
@@ -7324,7 +7324,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit"
 			(at 113.03 54.61 0)
 			(effects
 				(font
@@ -7405,7 +7405,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit"
 			(at 200.66 55.88 0)
 			(effects
 				(font
@@ -7486,7 +7486,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit"
 			(at 262.89 27.94 0)
 			(effects
 				(font
@@ -7567,7 +7567,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit"
 			(at 271.78 107.95 0)
 			(effects
 				(font
