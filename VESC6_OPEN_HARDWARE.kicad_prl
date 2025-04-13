@@ -44,10 +44,11 @@
       "drawing_sheet",
       "bitmaps",
       "pads",
+      "zones",
       "drc_warnings",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffff7_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_fffffff7_ffffffdf",
     "zone_display_mode": 0
   },
   "git": {
@@ -85,16 +86,16 @@
       9
     ],
     "col_widths": [
-      39,
-      36,
-      24,
-      17,
-      24,
-      24,
-      24,
-      18,
-      24,
-      24
+      31,
+      29,
+      19,
+      14,
+      19,
+      19,
+      19,
+      14,
+      19,
+      19
     ],
     "custom_group_rules": [],
     "expanded_rows": [],
