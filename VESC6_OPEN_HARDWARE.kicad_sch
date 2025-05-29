@@ -2406,7 +2406,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 49.53) (xy 99.06 49.53)
+			(xy 82.55 49.53) (xy 99.06 49.53)
 		)
 		(stroke
 			(width 0)
@@ -2546,6 +2546,16 @@
 	)
 	(wire
 		(pts
+			(xy 82.55 57.15) (xy 91.44 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6215009a-722f-43d4-8290-dd4577e68d02")
+	)
+	(wire
+		(pts
 			(xy 95.25 118.11) (xy 128.27 118.11)
 		)
 		(stroke
@@ -2663,6 +2673,16 @@
 			(type default)
 		)
 		(uuid "79e31048-072a-4a40-a625-26bb0b5f046b")
+	)
+	(wire
+		(pts
+			(xy 82.55 54.61) (xy 91.44 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79f8dbcc-e4b4-437a-951c-ea5988120c40")
 	)
 	(wire
 		(pts
@@ -2946,7 +2966,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 52.07) (xy 104.14 52.07)
+			(xy 82.55 52.07) (xy 104.14 52.07)
 		)
 		(stroke
 			(width 0)
@@ -3176,7 +3196,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x04")
-		(at 86.36 54.61 180)
+		(at 87.63 52.07 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3184,7 +3204,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ae5ab1c")
 		(property "Reference" "P2"
-			(at 83.82 57.15 0)
+			(at 80.264 49.022 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3192,15 +3212,15 @@
 			)
 		)
 		(property "Value" "TS_CAN"
-			(at 83.82 52.07 90)
+			(at 80.264 54.356 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_1x04_P1.27mm_Vertical"
-			(at 86.36 54.61 0)
+		(property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
+			(at 87.63 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3209,7 +3229,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/505/505567/5055670471_sd.pdf?inline"
-			(at 86.36 54.61 0)
+			(at 87.63 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3218,7 +3238,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 86.36 54.61 0)
+			(at 87.63 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3227,7 +3247,7 @@
 			)
 		)
 		(property "LCSC part no." "C563985"
-			(at 86.36 54.61 0)
+			(at 87.63 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3236,7 +3256,7 @@
 			)
 		)
 		(property "Critical" "Y"
-			(at 86.36 54.61 0)
+			(at 87.63 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3245,7 +3265,7 @@
 			)
 		)
 		(property "Link" ""
-			(at 86.36 54.61 0)
+			(at 87.63 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3254,7 +3274,7 @@
 			)
 		)
 		(property "MFP" ""
-			(at 86.36 54.61 0)
+			(at 87.63 52.07 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5153,7 +5173,7 @@
 			)
 		)
 		(property "LCSC part no." "C145795"
-			(at 88.9 29.21 0)
+			(at 82.042 28.702 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5557,7 +5577,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_1x06_P1.27mm_Vertical"
+		(property "Footprint" "Connector_JST:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal"
 			(at 86.36 83.82 0)
 			(effects
 				(font

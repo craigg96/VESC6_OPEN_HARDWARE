@@ -1174,6 +1174,12 @@
 		(uuid "0208dcec-5844-41d6-8382-4437ac8ac82d")
 	)
 	(junction
+		(at 250.19 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "02eb9a5a-10fb-4bec-b16b-d94d7e8c20f1")
+	)
+	(junction
 		(at 119.38 82.55)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1226,6 +1232,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "245a6fb4-6361-4438-82ca-8861d43ca7f5")
+	)
+	(junction
+		(at 238.76 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2a2da604-453c-4385-ac33-887183fe8c8e")
 	)
 	(junction
 		(at 142.24 160.02)
@@ -1292,6 +1304,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6afdccaa-d9c7-4949-88e8-e04bfdac5efc")
+	)
+	(junction
+		(at 250.19 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6b436f4e-7b7f-43b5-8bba-88e42a68f732")
 	)
 	(junction
 		(at 220.98 55.88)
@@ -1462,6 +1480,12 @@
 		(uuid "f7475c2a-e91e-435c-bec2-3307ef3e1f94")
 	)
 	(junction
+		(at 238.76 144.78)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f8095a69-b1bd-41c6-8018-066a0e5346fd")
+	)
+	(junction
 		(at 76.2 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1626,6 +1650,16 @@
 			(type default)
 		)
 		(uuid "1f01b2a1-9ae4-4793-9d17-5ed5c0966b9f")
+	)
+	(wire
+		(pts
+			(xy 226.06 124.46) (xy 226.06 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2009d76a-2a43-4075-b92c-189eba217559")
 	)
 	(wire
 		(pts
@@ -1836,6 +1870,16 @@
 			(type default)
 		)
 		(uuid "4116bfc2-eab3-4c29-a983-44eacd9f10f5")
+	)
+	(wire
+		(pts
+			(xy 238.76 144.78) (xy 238.76 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4245519d-207d-475e-8c79-7db8d83ee9c4")
 	)
 	(wire
 		(pts
@@ -2199,6 +2243,16 @@
 	)
 	(wire
 		(pts
+			(xy 250.19 144.78) (xy 250.19 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "835e3469-469e-458a-8d67-8dd6e004ec40")
+	)
+	(wire
+		(pts
 			(xy 269.24 36.83) (xy 269.24 60.96)
 		)
 		(stroke
@@ -2256,6 +2310,16 @@
 			(type default)
 		)
 		(uuid "8e1983d7-818b-423d-95d2-7f219e4f6ba3")
+	)
+	(wire
+		(pts
+			(xy 250.19 124.46) (xy 238.76 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8e5cb45e-bf4f-4731-b320-4cc66194f52e")
 	)
 	(wire
 		(pts
@@ -2346,16 +2410,6 @@
 			(type default)
 		)
 		(uuid "a2ead14b-89a8-4438-a7df-7876de28e69a")
-	)
-	(wire
-		(pts
-			(xy 250.19 139.7) (xy 250.19 144.78)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a50006bb-dba6-428c-bc52-f1c4d845aee5")
 	)
 	(wire
 		(pts
@@ -2506,6 +2560,16 @@
 			(type default)
 		)
 		(uuid "c2564ecf-bd43-431d-b9a2-c7be54487485")
+	)
+	(wire
+		(pts
+			(xy 226.06 144.78) (xy 226.06 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2943d4c-2980-44f5-a476-2f963095a5c1")
 	)
 	(wire
 		(pts
@@ -2749,6 +2813,26 @@
 	)
 	(wire
 		(pts
+			(xy 238.76 124.46) (xy 238.76 132.08)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3d448bf-0177-4b44-b425-5835614b43ec")
+	)
+	(wire
+		(pts
+			(xy 238.76 144.78) (xy 250.19 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e4140d55-d40e-4e8e-93d6-79bf472d1c74")
+	)
+	(wire
+		(pts
 			(xy 119.38 90.17) (xy 125.73 90.17)
 		)
 		(stroke
@@ -2756,6 +2840,16 @@
 			(type default)
 		)
 		(uuid "e75a90f1-d275-4ca6-86ea-4b6dddffab59")
+	)
+	(wire
+		(pts
+			(xy 238.76 124.46) (xy 226.06 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e7cc5e51-e819-462d-9fe5-9693ce1dab44")
 	)
 	(wire
 		(pts
@@ -2936,6 +3030,16 @@
 			(type default)
 		)
 		(uuid "fc052ac4-77ec-4901-baf8-c95f94903836")
+	)
+	(wire
+		(pts
+			(xy 226.06 144.78) (xy 238.76 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc53d748-c1f2-49b9-9664-9d57c9c828f7")
 	)
 	(wire
 		(pts
@@ -7243,7 +7347,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit"
+		(property "Footprint" "Connector_Pin:Pin_D1.3mm_L11.0mm_LooseFit"
 			(at 19.05 55.88 0)
 			(effects
 				(font
@@ -7324,7 +7428,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit"
+		(property "Footprint" "Connector_Pin:Pin_D1.3mm_L11.0mm_LooseFit"
 			(at 113.03 54.61 0)
 			(effects
 				(font
@@ -7405,7 +7509,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm_LooseFit"
+		(property "Footprint" "Connector_Pin:Pin_D1.3mm_L11.0mm_LooseFit"
 			(at 200.66 55.88 0)
 			(effects
 				(font
@@ -8273,6 +8377,216 @@
 	)
 	(symbol
 		(lib_id "Device:C")
+		(at 238.76 135.89 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "181dc75d-334b-4c1f-9fc7-2b31b7be7ff8")
+		(property "Reference" "C51"
+			(at 240.03 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "680u_63v"
+			(at 240.03 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x10.5"
+			(at 239.7252 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Nichicon-URZ1J221MHD_C433278.pdf"
+			(at 238.76 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP 220uF 63V ±20% 335mA@120Hz D12.5xL12.5mm Electrolytic TH"
+			(at 238.76 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC part no." "C433278"
+			(at 238.76 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Critical" "N"
+			(at 238.76 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://jlcpcb.com/partdetail/Nichicon-URZ1J221MHD/C433278"
+			(at 238.76 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFP" "URZ1J221MHD"
+			(at 238.76 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d02f0a80-040e-42cb-a017-9f0a64900475")
+		)
+		(pin "2"
+			(uuid "29265dee-0b6e-4e36-9ffe-a7a3da148576")
+		)
+		(instances
+			(project "VESC6_OPEN_HARDWARE"
+				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079/00000000-0000-0000-0000-00005ae14a7c"
+					(reference "C51")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 226.06 135.89 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3e3c07f5-4747-432e-a230-345dead2fc0e")
+		(property "Reference" "C50"
+			(at 227.33 133.35 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "680u_63v"
+			(at 227.33 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x10.5"
+			(at 227.0252 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Nichicon-URZ1J221MHD_C433278.pdf"
+			(at 226.06 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "CAP 220uF 63V ±20% 335mA@120Hz D12.5xL12.5mm Electrolytic TH"
+			(at 226.06 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC part no." "C433278"
+			(at 226.06 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Critical" "N"
+			(at 226.06 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" "https://jlcpcb.com/partdetail/Nichicon-URZ1J221MHD/C433278"
+			(at 226.06 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFP" "URZ1J221MHD"
+			(at 226.06 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5934d6d9-bd07-4003-934a-36ac091d5101")
+		)
+		(pin "2"
+			(uuid "3287f36f-daf0-496f-801a-0154c957d799")
+		)
+		(instances
+			(project "VESC6_OPEN_HARDWARE"
+				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079/00000000-0000-0000-0000-00005ae14a7c"
+					(reference "C50")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
 		(at 250.19 135.89 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8298,7 +8612,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x10.5"
 			(at 251.1552 139.7 0)
 			(effects
 				(font
@@ -8403,7 +8717,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:CP_Elec_10x10.5"
 			(at 263.8552 139.7 0)
 			(effects
 				(font
