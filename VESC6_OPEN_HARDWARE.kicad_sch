@@ -2139,6 +2139,12 @@
 		(uuid "37f31dec-63fc-4634-a141-5dc5d2b60fe4")
 	)
 	(junction
+		(at 82.55 54.61)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3e190e90-cb67-4012-b8a3-2bf863ebd974")
+	)
+	(junction
 		(at 228.6 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2167,6 +2173,24 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cf386a39-fc62-49dd-8ec5-e044f6bd67ce")
+	)
+	(junction
+		(at 82.55 52.07)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "da93a490-f0ee-4c5f-951e-ad0d13c34cef")
+	)
+	(junction
+		(at 82.55 49.53)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e5f710b3-7d58-4a45-9cf4-9c013f32d7fd")
+	)
+	(junction
+		(at 82.55 57.15)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e9918854-fcd4-40e2-be95-490deb4ecbab")
 	)
 	(junction
 		(at 228.6 142.24)
@@ -2323,6 +2347,16 @@
 			(type default)
 		)
 		(uuid "155b0b7c-70b4-4a26-a550-bac13cab0aa4")
+	)
+	(wire
+		(pts
+			(xy 58.42 63.5) (xy 68.58 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1669bfcc-f096-4750-8dbc-a2ca8f4f5a3f")
 	)
 	(wire
 		(pts
@@ -2506,6 +2540,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 54.61) (xy 82.55 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d1d4535-1f29-4b35-8cdf-4ae38162d7e4")
+	)
+	(wire
+		(pts
 			(xy 203.2 138.43) (xy 208.28 138.43)
 		)
 		(stroke
@@ -2593,6 +2637,16 @@
 			(type default)
 		)
 		(uuid "6e435cd4-da2b-4602-a0aa-5dd988834dff")
+	)
+	(wire
+		(pts
+			(xy 68.58 63.5) (xy 68.58 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6f15aabd-5524-4ef8-a4ee-872888820888")
 	)
 	(wire
 		(pts
@@ -2796,7 +2850,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 67.31) (xy 68.58 62.23)
+			(xy 58.42 63.5) (xy 58.42 62.23)
 		)
 		(stroke
 			(width 0)
@@ -2893,6 +2947,16 @@
 			(type default)
 		)
 		(uuid "b873bc5d-a9af-4bd9-afcb-87ce4d417120")
+	)
+	(wire
+		(pts
+			(xy 71.12 57.15) (xy 82.55 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b93c1542-8676-406f-9fd4-2ef267dafaa2")
 	)
 	(wire
 		(pts
@@ -3106,6 +3170,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 49.53) (xy 82.55 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ecff284a-038e-4c48-9bb6-3bbe11faac78")
+	)
+	(wire
+		(pts
 			(xy 91.44 146.05) (xy 128.27 146.05)
 		)
 		(stroke
@@ -3113,6 +3187,16 @@
 			(type default)
 		)
 		(uuid "f1447ad6-651c-45be-a2d6-33bddf672c2c")
+	)
+	(wire
+		(pts
+			(xy 71.12 52.07) (xy 82.55 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f222192d-0122-441c-9113-907ab7ec50c4")
 	)
 	(wire
 		(pts
@@ -3246,7 +3330,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC part no." "C563985"
+		(property "LCSC part no." "C160404"
 			(at 87.63 52.07 0)
 			(effects
 				(font
@@ -4015,7 +4099,7 @@
 	)
 	(symbol
 		(lib_id "power:+5V")
-		(at 68.58 62.23 0)
+		(at 58.42 62.23 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4023,7 +4107,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ae97bad")
 		(property "Reference" "#PWR04"
-			(at 68.58 66.04 0)
+			(at 58.42 66.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4032,7 +4116,7 @@
 			)
 		)
 		(property "Value" "+5V"
-			(at 68.961 57.8358 0)
+			(at 58.801 57.8358 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4040,7 +4124,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 68.58 62.23 0)
+			(at 58.42 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4049,7 +4133,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 68.58 62.23 0)
+			(at 58.42 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4058,7 +4142,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 68.58 62.23 0)
+			(at 58.42 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5384,6 +5468,115 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x04")
+		(at 76.2 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "13d7240c-f099-479d-8c63-65485da3fd8a")
+		(property "Reference" "P5"
+			(at 68.834 49.022 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TS_CAN"
+			(at 68.834 54.356 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal"
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/505/505567/5055670471_sd.pdf?inline"
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC part no." "C160404"
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Critical" "Y"
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Link" ""
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MFP" ""
+			(at 76.2 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "213137a4-4a4b-4abf-b133-2a50751e2c49")
+		)
+		(pin "2"
+			(uuid "6e017dbb-f616-471e-b407-3092fe080d73")
+		)
+		(pin "3"
+			(uuid "58362081-3710-4f8b-9eb8-1d5796f08f52")
+		)
+		(pin "4"
+			(uuid "6a15149e-5f23-4766-81a1-65dbaa44c61a")
+		)
+		(instances
+			(project "VESC6_OPEN_HARDWARE"
+				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
+					(reference "P5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 91.44 54.61 90)
 		(unit 1)
@@ -5604,7 +5797,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC part no." "C585388"
+		(property "LCSC part no." "C160405"
 			(at 86.36 83.82 0)
 			(effects
 				(font
