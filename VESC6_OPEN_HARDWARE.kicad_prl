@@ -13,7 +13,7 @@
       "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 1.0
+      "zones": 0.20000000298023224
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
@@ -85,16 +85,16 @@
       9
     ],
     "col_widths": [
-      13,
-      11,
       10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      10,
-      96
+      9,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      8,
+      101
     ],
     "custom_group_rules": [],
     "expanded_rows": [],

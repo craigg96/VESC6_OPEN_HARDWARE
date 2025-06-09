@@ -2214,10 +2214,6 @@
 		(at 96.52 34.29)
 		(uuid "7afa54c4-2181-41d3-81f7-39efc497ecae")
 	)
-	(no_connect
-		(at 91.44 151.13)
-		(uuid "e555bbbd-541e-4dd0-8ec8-3f720cfc857c")
-	)
 	(wire
 		(pts
 			(xy 228.6 138.43) (xy 220.98 138.43)
@@ -2427,6 +2423,16 @@
 			(type default)
 		)
 		(uuid "2891767f-251c-48c4-91c0-deb1b368f45c")
+	)
+	(wire
+		(pts
+			(xy 83.82 143.51) (xy 91.44 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b0811b6-ca6b-4984-b264-e00639f45b2a")
 	)
 	(wire
 		(pts
@@ -2910,6 +2916,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 138.43) (xy 91.44 138.43)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b08203af-1eb5-46d9-b228-cf19a616afc4")
+	)
+	(wire
+		(pts
 			(xy 96.52 24.13) (xy 105.41 24.13)
 		)
 		(stroke
@@ -3040,7 +3056,7 @@
 	)
 	(wire
 		(pts
-			(xy 128.27 140.97) (xy 91.44 140.97)
+			(xy 128.27 140.97) (xy 83.82 140.97)
 		)
 		(stroke
 			(width 0)
@@ -3180,7 +3196,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 146.05) (xy 128.27 146.05)
+			(xy 83.82 146.05) (xy 128.27 146.05)
 		)
 		(stroke
 			(width 0)
@@ -3200,7 +3216,7 @@
 	)
 	(wire
 		(pts
-			(xy 91.44 148.59) (xy 128.27 148.59)
+			(xy 83.82 148.59) (xy 128.27 148.59)
 		)
 		(stroke
 			(width 0)
@@ -3397,7 +3413,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ae6a812")
 		(property "Reference" "R44"
-			(at 76.2 71.12 90)
+			(at 77.978 71.374 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3500,7 +3516,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ae6a8a8")
 		(property "Reference" "R43"
-			(at 76.2 68.58 90)
+			(at 77.978 68.58 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3603,7 +3619,7 @@
 		(dnp no)
 		(uuid "00000000-0000-0000-0000-00005ae6a8c8")
 		(property "Reference" "R42"
-			(at 76.2 66.04 90)
+			(at 77.978 66.294 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5238,7 +5254,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811151141_Korean-Hroparts-Elec-U-D-M5DD-W-1_C145795.pdf"
+		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/482/48258/482580001_sd.pdf?"
 			(at 92.71 30.48 0)
 			(effects
 				(font
@@ -5861,6 +5877,71 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+5V")
+		(at 83.82 151.13 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "65478f9a-bd71-4b2d-92fe-5cb0f8ddd7b8")
+		(property "Reference" "#PWR0121"
+			(at 80.01 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+5V"
+			(at 87.0712 151.511 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 83.82 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 83.82 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 83.82 151.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "046b16c3-18ef-472a-bf3e-f99c2d0028b1")
+		)
+		(instances
+			(project "VESC6_OPEN_HARDWARE"
+				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
+					(reference "#PWR0121")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 115.57 102.87 90)
 		(unit 1)
@@ -5927,8 +6008,8 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x06")
-		(at 86.36 143.51 0)
-		(mirror y)
+		(at 88.9 146.05 0)
+		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5936,7 +6017,7 @@
 		(dnp no)
 		(uuid "89670c40-3bbb-4afb-ae7b-88ed5d23f348")
 		(property "Reference" "P3"
-			(at 86.36 153.67 0)
+			(at 88.9 135.89 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -5944,15 +6025,15 @@
 			)
 		)
 		(property "Value" "SWD"
-			(at 86.36 134.62 0)
+			(at 88.9 154.94 0)
 			(effects
 				(font
 					(size 1.524 1.524)
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_1.27mm:PinSocket_1x06_P1.27mm_Vertical"
-			(at 86.36 143.51 0)
+		(property "Footprint" "Connector_JST:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal"
+			(at 88.9 146.05 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -5961,7 +6042,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/505/505567/5055670671_sd.pdf?inline"
-			(at 86.36 143.51 0)
+			(at 88.9 146.05 0)
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -5970,7 +6051,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 86.36 143.51 0)
+			(at 88.9 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5979,7 +6060,7 @@
 			)
 		)
 		(property "LCSC part no." "C160405"
-			(at 86.36 143.51 0)
+			(at 88.9 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5988,7 +6069,7 @@
 			)
 		)
 		(property "Critical" "Y"
-			(at 86.36 143.51 0)
+			(at 88.9 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5997,7 +6078,7 @@
 			)
 		)
 		(property "Link" ""
-			(at 86.36 143.51 0)
+			(at 88.9 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6006,7 +6087,7 @@
 			)
 		)
 		(property "MFP" ""
-			(at 86.36 143.51 0)
+			(at 88.9 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
