@@ -5245,7 +5245,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_USB:USB_Micro-B_Molex-105133-0001"
+		(property "Footprint" "Connector_USB:USB_Micro-B_Molex_47346-0001"
 			(at 92.71 30.48 0)
 			(effects
 				(font
@@ -5272,7 +5272,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC part no." "C782257"
+		(property "LCSC part no." "C132560"
 			(at 82.042 28.702 90)
 			(effects
 				(font
