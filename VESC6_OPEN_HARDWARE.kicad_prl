@@ -40,15 +40,12 @@
       "footprint_values",
       "footprint_references",
       "tracks",
-      "drc_errors",
       "drawing_sheet",
       "bitmaps",
       "pads",
-      "zones",
-      "drc_warnings",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_ffffffff_ffffffff",
+    "visible_layers": "ffffffff_ffffffff_ffffffff_fffffffb",
     "zone_display_mode": 0
   },
   "git": {
