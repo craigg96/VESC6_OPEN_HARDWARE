@@ -2882,7 +2882,7 @@
 				)
 			)
 		)
-		(property "Value" "TS_CAN"
+		(property "Value" "CAN2"
 			(at 45.974 61.976 90)
 			(effects
 				(font
@@ -2917,7 +2917,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC part no." "C160404"
+		(property "LCSC part no." "C23390337"
 			(at 53.34 59.69 0)
 			(effects
 				(font
@@ -4200,7 +4200,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC part no." "C72041"
+		(property "LCSC part no." "C2288"
 			(at 165.1 146.05 0)
 			(effects
 				(font
@@ -4406,7 +4406,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC part no." "C72043"
+		(property "LCSC part no." "C12624"
 			(at 165.1 153.67 0)
 			(effects
 				(font
@@ -5136,7 +5136,7 @@
 				)
 			)
 		)
-		(property "Value" "TS_CAN"
+		(property "Value" "CAN1"
 			(at 34.544 61.976 90)
 			(effects
 				(font
@@ -5171,7 +5171,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC part no." "C160404"
+		(property "LCSC part no." "C23390337"
 			(at 41.91 59.69 0)
 			(effects
 				(font
@@ -5594,7 +5594,7 @@
 				)
 			)
 		)
-		(property "Value" "TS_CAN"
+		(property "Value" "ADC_SWITCH"
 			(at 106.172 21.844 90)
 			(effects
 				(font
@@ -5629,7 +5629,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC part no." "C160404"
+		(property "LCSC part no." "C23390337"
 			(at 102.87 20.32 0)
 			(effects
 				(font
@@ -5803,7 +5803,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC part no." "C160405"
+		(property "LCSC part no." "23390339"
 			(at 54.61 153.67 0)
 			(effects
 				(font

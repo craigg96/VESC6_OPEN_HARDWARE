@@ -2350,17 +2350,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "C2923951"
-		(exclude_from_sim no)
-		(at 195.834 43.434 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "e3587ce7-1ccd-4b88-9420-25fbb5291543")
-	)
 	(junction
 		(at 200.66 58.42)
 		(diameter 0)
@@ -6061,7 +6050,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC part no." "C385986"
+		(property "LCSC part no." "C385987"
 			(at 182.88 36.83 0)
 			(effects
 				(font
@@ -7108,7 +7097,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC part no." "C385986"
+		(property "LCSC part no." "C385987"
 			(at 168.91 114.3 0)
 			(effects
 				(font
