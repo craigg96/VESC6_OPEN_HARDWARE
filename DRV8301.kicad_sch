@@ -6032,7 +6032,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2211282230_Taiyo-Yuden-HMK325C7475KMHPE_C385986.pdf"
+		(property "Datasheet" ""
 			(at 182.88 36.83 0)
 			(effects
 				(font
@@ -6059,7 +6059,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://jlcpcb.com/partdetail/TaiyoYuden-HMK325C7475KMHPE/C385986"
+		(property "Link" ""
 			(at 182.88 36.83 0)
 			(effects
 				(font
@@ -6068,7 +6068,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFP" "HMK325C7475KMHPE"
+		(property "MFP" ""
 			(at 182.88 36.83 0)
 			(effects
 				(font
@@ -7079,7 +7079,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2211282230_Taiyo-Yuden-HMK325C7475KMHPE_C385986.pdf"
+		(property "Datasheet" ""
 			(at 168.91 114.3 0)
 			(effects
 				(font
@@ -7106,7 +7106,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://jlcpcb.com/partdetail/TaiyoYuden-HMK325C7475KMHPE/C385986"
+		(property "Link" ""
 			(at 168.91 114.3 0)
 			(effects
 				(font
@@ -7115,7 +7115,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFP" "HMK325C7475KMHPE"
+		(property "MFP" ""
 			(at 168.91 114.3 0)
 			(effects
 				(font

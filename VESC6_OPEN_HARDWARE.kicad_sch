@@ -2813,7 +2813,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/505/505567/5055670471_sd.pdf?inline"
+		(property "Datasheet" ""
 			(at 53.34 59.69 0)
 			(effects
 				(font
@@ -4199,7 +4199,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf"
+		(property "Datasheet" ""
 			(at 165.1 153.67 0)
 			(effects
 				(font
@@ -4235,7 +4235,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://jlcpcb.com/partdetail/EverlightElec-19_217_GHC_YR1S23T/C72043"
+		(property "Link" ""
 			(at 165.1 153.67 0)
 			(effects
 				(font
@@ -4244,7 +4244,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFP" "19-217/GHC-YR1S2/3T"
+		(property "MFP" ""
 			(at 165.1 153.67 0)
 			(effects
 				(font
@@ -4572,7 +4572,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/482/48258/482580001_sd.pdf?"
+		(property "Datasheet" ""
 			(at 58.42 38.1 0)
 			(effects
 				(font
@@ -4607,7 +4607,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://jlcpcb.com/partdetail/Korean_HropartsElec-U_D_M5DD_W1/C145795"
+		(property "Link" ""
 			(at 54.61 36.83 0)
 			(effects
 				(font
@@ -4616,7 +4616,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFP" "U-D-M5DD-W-1"
+		(property "MFP" ""
 			(at 54.61 36.83 0)
 			(effects
 				(font
@@ -4686,7 +4686,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 74.93 31.75 0)
 			(effects
 				(font
@@ -4900,7 +4900,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/505/505567/5055670471_sd.pdf?inline"
+		(property "Datasheet" ""
 			(at 41.91 59.69 0)
 			(effects
 				(font
@@ -5077,7 +5077,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 217.17 132.08 0)
 			(effects
 				(font
@@ -5139,7 +5139,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/505/505567/5055670671_sd.pdf?inline"
+		(property "Datasheet" ""
 			(at 52.07 91.44 0)
 			(effects
 				(font
@@ -5319,7 +5319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/505/505567/5055670471_sd.pdf?inline"
+		(property "Datasheet" ""
 			(at 102.87 20.32 0)
 			(effects
 				(font
@@ -5495,7 +5495,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 217.17 138.43 0)
 			(effects
 				(font
@@ -5557,7 +5557,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/505/505567/5055670671_sd.pdf?inline"
+		(property "Datasheet" ""
 			(at 54.61 153.67 0)
 			(effects
 				(font
@@ -5675,7 +5675,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 217.17 151.13 0)
 			(effects
 				(font
@@ -5804,7 +5804,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 217.17 144.78 0)
 			(effects
 				(font

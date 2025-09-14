@@ -3664,7 +3664,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2211282230_Taiyo-Yuden-HMK325C7475KMHPE_C385986.pdf"
+		(property "Datasheet" ""
 			(at 181.61 63.5 0)
 			(effects
 				(font
@@ -3691,7 +3691,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://jlcpcb.com/partdetail/TaiyoYuden-HMK325C7475KMHPE/C385986"
+		(property "Link" ""
 			(at 181.61 63.5 0)
 			(effects
 				(font
@@ -3700,7 +3700,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFP" "HMK325C7475KMHPE"
+		(property "MFP" ""
 			(at 181.61 63.5 0)
 			(effects
 				(font
@@ -3769,7 +3769,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2211282230_Taiyo-Yuden-HMK325C7475KMHPE_C385986.pdf"
+		(property "Datasheet" ""
 			(at 190.5 63.5 0)
 			(effects
 				(font
@@ -3796,7 +3796,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://jlcpcb.com/partdetail/TaiyoYuden-HMK325C7475KMHPE/C385986"
+		(property "Link" ""
 			(at 190.5 63.5 0)
 			(effects
 				(font
@@ -3805,7 +3805,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFP" "HMK325C7475KMHPE"
+		(property "MFP" ""
 			(at 190.5 63.5 0)
 			(effects
 				(font
@@ -4536,7 +4536,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2211282230_Taiyo-Yuden-HMK325C7475KMHPE_C385986.pdf"
+		(property "Datasheet" ""
 			(at 87.63 64.77 0)
 			(effects
 				(font
@@ -4563,7 +4563,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://jlcpcb.com/partdetail/TaiyoYuden-HMK325C7475KMHPE/C385986"
+		(property "Link" ""
 			(at 87.63 64.77 0)
 			(effects
 				(font
@@ -4572,7 +4572,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFP" "HMK325C7475KMHPE"
+		(property "MFP" ""
 			(at 87.63 64.77 0)
 			(effects
 				(font
@@ -4641,7 +4641,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2211282230_Taiyo-Yuden-HMK325C7475KMHPE_C385986.pdf"
+		(property "Datasheet" ""
 			(at 96.52 64.77 0)
 			(effects
 				(font
@@ -4668,7 +4668,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://jlcpcb.com/partdetail/TaiyoYuden-HMK325C7475KMHPE/C385986"
+		(property "Link" ""
 			(at 96.52 64.77 0)
 			(effects
 				(font
@@ -4677,7 +4677,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFP" "HMK325C7475KMHPE"
+		(property "MFP" ""
 			(at 96.52 64.77 0)
 			(effects
 				(font
@@ -5408,7 +5408,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2211282230_Taiyo-Yuden-HMK325C7475KMHPE_C385986.pdf"
+		(property "Datasheet" ""
 			(at 269.24 64.77 0)
 			(effects
 				(font
@@ -5435,7 +5435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://jlcpcb.com/partdetail/TaiyoYuden-HMK325C7475KMHPE/C385986"
+		(property "Link" ""
 			(at 269.24 64.77 0)
 			(effects
 				(font
@@ -5444,7 +5444,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFP" "HMK325C7475KMHPE"
+		(property "MFP" ""
 			(at 269.24 64.77 0)
 			(effects
 				(font
@@ -5513,7 +5513,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2211282230_Taiyo-Yuden-HMK325C7475KMHPE_C385986.pdf"
+		(property "Datasheet" ""
 			(at 278.13 64.77 0)
 			(effects
 				(font
@@ -5540,7 +5540,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://jlcpcb.com/partdetail/TaiyoYuden-HMK325C7475KMHPE/C385986"
+		(property "Link" ""
 			(at 278.13 64.77 0)
 			(effects
 				(font
@@ -5549,7 +5549,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFP" "HMK325C7475KMHPE"
+		(property "MFP" ""
 			(at 278.13 64.77 0)
 			(effects
 				(font
@@ -7356,7 +7356,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 19.05 55.88 0)
 			(effects
 				(font
@@ -7437,7 +7437,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 113.03 54.61 0)
 			(effects
 				(font
@@ -7518,7 +7518,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 200.66 55.88 0)
 			(effects
 				(font
@@ -7599,7 +7599,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 262.89 27.94 0)
 			(effects
 				(font
@@ -7680,7 +7680,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" ""
 			(at 271.78 107.95 0)
 			(effects
 				(font
@@ -7763,7 +7763,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.farnell.com/datasheets/2815981.pdf"
+		(property "Datasheet" ""
 			(at 76.2 41.91 0)
 			(effects
 				(font
@@ -7871,7 +7871,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.farnell.com/datasheets/2815981.pdf"
+		(property "Datasheet" ""
 			(at 76.2 82.55 0)
 			(effects
 				(font
@@ -7979,7 +7979,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.farnell.com/datasheets/2815981.pdf"
+		(property "Datasheet" ""
 			(at 170.18 40.64 0)
 			(effects
 				(font
@@ -8087,7 +8087,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.farnell.com/datasheets/2815981.pdf"
+		(property "Datasheet" ""
 			(at 170.18 81.28 0)
 			(effects
 				(font
@@ -8195,7 +8195,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.farnell.com/datasheets/2815981.pdf"
+		(property "Datasheet" ""
 			(at 257.81 82.55 0)
 			(effects
 				(font
@@ -8303,7 +8303,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://www.farnell.com/datasheets/2815981.pdf"
+		(property "Datasheet" ""
 			(at 257.81 41.91 0)
 			(effects
 				(font
@@ -8411,7 +8411,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Nichicon-URZ1J221MHD_C433278.pdf"
+		(property "Datasheet" ""
 			(at 238.76 135.89 0)
 			(effects
 				(font
@@ -8447,7 +8447,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://jlcpcb.com/partdetail/Nichicon-URZ1J221MHD/C433278"
+		(property "Link" ""
 			(at 238.76 135.89 0)
 			(effects
 				(font
@@ -8456,7 +8456,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFP" "URZ1J221MHD"
+		(property "MFP" ""
 			(at 238.76 135.89 0)
 			(effects
 				(font
@@ -8516,7 +8516,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Nichicon-URZ1J221MHD_C433278.pdf"
+		(property "Datasheet" ""
 			(at 226.06 135.89 0)
 			(effects
 				(font
@@ -8552,7 +8552,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://jlcpcb.com/partdetail/Nichicon-URZ1J221MHD/C433278"
+		(property "Link" ""
 			(at 226.06 135.89 0)
 			(effects
 				(font
@@ -8561,7 +8561,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFP" "URZ1J221MHD"
+		(property "MFP" ""
 			(at 226.06 135.89 0)
 			(effects
 				(font
@@ -8621,7 +8621,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Nichicon-URZ1J221MHD_C433278.pdf"
+		(property "Datasheet" ""
 			(at 250.19 135.89 0)
 			(effects
 				(font
@@ -8657,7 +8657,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://jlcpcb.com/partdetail/Nichicon-URZ1J221MHD/C433278"
+		(property "Link" ""
 			(at 250.19 135.89 0)
 			(effects
 				(font
@@ -8666,7 +8666,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFP" "URZ1J221MHD"
+		(property "MFP" ""
 			(at 250.19 135.89 0)
 			(effects
 				(font
@@ -8726,7 +8726,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1912111437_Nichicon-URZ1J221MHD_C433278.pdf"
+		(property "Datasheet" ""
 			(at 262.89 135.89 0)
 			(effects
 				(font
@@ -8762,7 +8762,7 @@
 				(hide yes)
 			)
 		)
-		(property "Link" "https://jlcpcb.com/partdetail/Nichicon-URZ1J221MHD/C433278"
+		(property "Link" ""
 			(at 262.89 135.89 0)
 			(effects
 				(font
@@ -8771,7 +8771,7 @@
 				(hide yes)
 			)
 		)
-		(property "MFP" "URZ1J221MHD"
+		(property "MFP" ""
 			(at 262.89 135.89 0)
 			(effects
 				(font

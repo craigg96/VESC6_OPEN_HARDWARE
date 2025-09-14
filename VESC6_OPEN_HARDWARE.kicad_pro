@@ -507,7 +507,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "FABRICATION/RELEASE1.1/",
+      "plot": "FABRICATION/RELEASE1/",
       "pos_files": "FABRICATION/RELEASE1/cpl/",
       "specctra_dsn": "",
       "step": "FABRICATION/HD-ID607-C/ID0607_C.step",
@@ -555,7 +555,7 @@
           "group_by": true,
           "label": "Value",
           "name": "Value",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -567,13 +567,13 @@
           "group_by": true,
           "label": "Exclude from BOM",
           "name": "${EXCLUDE_FROM_BOM}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
           "label": "Exclude from Board",
           "name": "${EXCLUDE_FROM_BOARD}",
-          "show": true
+          "show": false
         },
         {
           "group_by": true,
@@ -603,7 +603,7 @@
           "group_by": false,
           "label": "Critical",
           "name": "Critical",
-          "show": true
+          "show": false
         },
         {
           "group_by": false,

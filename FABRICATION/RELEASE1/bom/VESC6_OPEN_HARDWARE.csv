@@ -1,54 +1,51 @@
-Designator,JLCPCB Part #,Qty,Value,DNP,Exclude from BOM,Exclude from Board,Footprint,Datasheet,Link,MFP,Critical,Description,#
-"C2,C8",C1644,2,15p,,,,Capacitor_SMD:C_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2304140030_Samsung-Electro-Mechanics-CL10C150JB8NNNC_C1644.pdf,https://jlcpcb.com/partdetail/1996-CL10C150JB8NNNC/C1644,CL10C150JB8NNNC,N,CAP 50V 15pF C0G ±5% 0603 MLCC,1
-"C3,C4,C5,C6,C9,C10,C11,C12,C13,C14,C15,C17,C20,C31,C33,C34,C35,C36,C38,C42,C64",C23630,21,2.2uF,,,,Capacitor_SMD:C_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2304140030_Samsung-Electro-Mechanics-CL10A225KO8NNNC_C23630.pdf,https://jlcpcb.com/partdetail/24366-CL10A225KO8NNNC/C23630,CL10A225KO8NNNC,N,CAP 16V 2.2uF X5R ±10% 0603 MLCC,2
-"C7,C28,C58,C61,C62",C14663,5,100n,,,,Capacitor_SMD:C_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2211101700_YAGEO-CC0603KRX7R9BB104_C14663.pdf,https://jlcpcb.com/partdetail/Yageo-CC0603KRX7R9BB104/C14663,CC0603KRX7R9BB104,N,CAP 50V 100nF X7R ±10% 0603 MLCC,3
-C16,C1631,1,6.8n,,,,Capacitor_SMD:C_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603B682K500NT_C1631.pdf,https://jlcpcb.com/partdetail/1983-0603B682K500NT/C1631,0603B682K500NT,N,CAP 50V 6.8nF X7R ±10% 0603 MLCC,4
-C18,C107035,1,120p,,,,Capacitor_SMD:C_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2304140030_YAGEO-CC0603JRNPO9BN121_C107035.pdf,https://jlcpcb.com/partdetail/Yageo-CC0603JRNPO9BN121/C107035,CC0603JRNPO9BN121,N,CAP 50V 120pF NP0 ±5% 0603 MLCC,5
-C19,C21122,1,22n,,,,Capacitor_SMD:C_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2304140030_Samsung-Electro-Mechanics-CL10B223KB8NNNC_C21122.pdf,https://jlcpcb.com/partdetail/21834-CL10B223KB8NNNC/C21122,CL10B223KB8NNNC,N,CAP 50V 22nF X7R ±10% 0603 MLCC,6
-"C21,C32",C16133,2,100u,,,,Capacitor_SMD:C_1210_3225Metric,https://datasheet.lcsc.com/lcsc/2111161030_Kyocera-AVX-TAJB107K006RNJ-_C16133.pdf,https://jlcpcb.com/partdetail/KyoceraAvx-TAJB107K006RNJ/C16133,TAJB107K006RNJ,N,CAP 100uF 6.3V 1.7Ω@100kHz ±10% 1210 Tantalum,7
-C22,C1596,1,15n,,,,Capacitor_SMD:C_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603B153K500NT_C1596.pdf,https://jlcpcb.com/partdetail/1948-0603B153K500NT/C1596,0603B153K500NT,N,CAP 50V 15nF X7R ±10% 0603 MLCC,8
-"C23,C24,C25",C21120,3,220n,,,,Capacitor_SMD:C_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2304140030_Samsung-Electro-Mechanics-CL10B224KA8NNNC_C21120.pdf,https://jlcpcb.com/partdetail/21832-CL10B224KA8NNNC/C21120,CL10B224KA8NNNC,N,CAP 25V 220nF X7R ±10% 0603 MLCC,9
-"C26,C27,C37,C39,C40,C41,C43,C44",C385987,8,4.7u_100v,,,,Capacitor_SMD:C_1210_3225Metric,https://datasheet.lcsc.com/lcsc/2211282230_Taiyo-Yuden-HMK325C7475KMHPE_C385986.pdf,https://jlcpcb.com/partdetail/TaiyoYuden-HMK325C7475KMHPE/C385986,HMK325C7475KMHPE,N,CAP 100V 4.7uF X7S ±10% 1210 MLCC,10
-"C29,C30,C45",C53987,3,4.7n,,,,Capacitor_SMD:C_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2304140030_FH--Guangdong-Fenghua-Advanced-Tech-0603B472K500NT_C53987.pdf,https://jlcpcb.com/partdetail/55004-0603B472K500NT/C53987,0603B472K500NT,N,CAP 50V 4.7nF X7R ±10% 0603 MLCC,11
-"C48,C49,C50,C51",C7471900,4,220u_63v,,,,Capacitor_SMD:CP_Elec_10x10.5,https://datasheet.lcsc.com/lcsc/1912111437_Nichicon-URZ1J221MHD_C433278.pdf,https://jlcpcb.com/partdetail/Nichicon-URZ1J221MHD/C433278,URZ1J221MHD,N,CAP 220uF 63V ±20% 335mA@120Hz D12.5xL12.5mm Electrolytic TH,12
-D2,C2286,1,RED,,,,Diode_SMD:D_0603_1608Metric,https://datasheet.lcsc.com/lcsc/1810231112_Hubei-KENTO-Elec-KT-0603R_C2286.pdf,https://jlcpcb.com/partdetail/Hubei_KentoElec-KT0603R/C2286,KT-0603R,N,LED Red 120deg 100mW 0603,13
-D3,C2290,1,WHITE,,,,Diode_SMD:D_0603_1608Metric,https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-GHC-YR1S2-3T_C72043.pdf,https://jlcpcb.com/partdetail/EverlightElec-19_217_GHC_YR1S23T/C72043,19-217/GHC-YR1S2/3T,N,LED Green 120deg 110mW 0603,14
-D4,C2923951,1,DIODE,,,,Diode_SMD:D_SMF,https://datasheet.lcsc.com/lcsc/2201121300_Jiangsu-Changjing-Electronics-Technology-Co---Ltd--DSS26_C2923951.pdf,https://jlcpcb.com/partdetail/3237766-DSS26/C2923951,DSS26,N,Diode Schottky 60V Single 2A 700mV 2A SOD-123FL,15
-D5,C129544,1,TVS 5V,,,,Diode_SMD:D_SMA,https://datasheet.lcsc.com/lcsc/1912111437_MCC-Micro-Commercial-Components-SMAJ5-0A-TP_C129544.pdf,https://jlcpcb.com/partdetail/140830-SMAJ5_0ATP/C129544,SMAJ5.0A-TP,N,Diode TVS 9.2V 6.4V 5V SMA (DO-214AC),16
-"H1,H2,H3,H4",,4,MountingHole,,Excluded from BOM,,CustomFootprints:MountingHole_3mm,~,,,,Mounting Hole without connection,17
-L1,C383398,1,2.2u,,,,Inductor_SMD:L_0805_2012Metric,https://datasheet.lcsc.com/lcsc/2304140030_TDK-MLZ2012A2R2WT000_C383398.pdf,https://jlcpcb.com/partdetail/Tdk-MLZ2012A2R2WT000/C383398,MLZ2012A2R2WT000,N,Ind 650mA 2.2uH ±20% 210mA 150mΩ 0805,18
-L2,C266430,1,22u,,,,Inductor_SMD:L_Taiyo-Yuden_NR-60xx_HandSoldering,https://datasheet.lcsc.com/lcsc/2108131830_SXN-Shun-Xiang-Nuo-Elec-SMNR6028-220MT_C266430.pdf,https://jlcpcb.com/partdetail/256601-SMNR6028220MT/C266430,SMNR6028-220MT,N,Ind 1.45A 22uH ±20% 6.0x6.0x3.0mm SMD,19
-P1,C132560,1,USB_OTG,,,,Connector_USB:USB_Micro-B_Molex_47346-0001,https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/482/48258/482580001_sd.pdf?,https://jlcpcb.com/partdetail/Korean_HropartsElec-U_D_M5DD_W1/C145795,U-D-M5DD-W-1,N,Conn USB 2.0 5-way Receptacle Micro-B Vertical TH,20
-P2,C23390337,1,CAN2,,,,Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/505/505567/5055670471_sd.pdf?inline,,,Y,,21
-P3,C160405,1,SWD,,,,Connector_JST:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal,https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/505/505567/5055670671_sd.pdf?inline,,,Y,,22
-P4,C160405,1,HALL/Encoder,,,,Connector_JST:JST_SH_SM06B-SRSS-TB_1x06-1MP_P1.00mm_Horizontal,https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/505/505567/5055670671_sd.pdf?inline,,,Y,,23
-P5,C23390337,1,CAN1,,,,Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/505/505567/5055670471_sd.pdf?inline,,,Y,,24
-P6,C23390337,1,ADC_SWITCH,,,,Connector_JST:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal,https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/505/505567/5055670471_sd.pdf?inline,,,Y,,25
-P8,,1,PH_C,,,,Connector_Pin:Pin_D1.3mm_L11.0mm_LooseFit,~,,,Y,,26
-P9,,1,PH_B,,,,Connector_Pin:Pin_D1.3mm_L11.0mm_LooseFit,~,,,Y,,27
-P10,,1,PH_A,,,,Connector_Pin:Pin_D1.3mm_L11.0mm_LooseFit,~,,,Y,,28
-P11,,1,SUPPLY,,,,Connector_Pin:Pin_D1.3mm_L11.0mm_LooseFit,~,,,Y,,29
-P12,,1,GND,,,,Connector_Pin:Pin_D1.3mm_L11.0mm_LooseFit,~,,,Y,,30
-"Q1,Q2,Q3,Q4,Q5,Q6",C501008,6,STL130N6F7,,,,CustomFootprints:NVMFS5C612NL,https://www.farnell.com/datasheets/2815981.pdf,https://www.st.com/resource/en/datasheet/stl130n6f7.pdf,STL130N6F7,Y,Power FET N-Channel 60V 130A 0.003Ohm PowerFLAT SMD,31
-R1,,1,DNP,,,,Resistor_SMD:R_0603_1608Metric,~,,,N,Res 0R 1% 100mW 0603,32
-"R2,R3",C23345,2,22R,,,,Resistor_SMD:R_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2206010100_UNI-ROYAL-Uniroyal-Elec-0603WAF220JT5E_C23345.pdf,https://jlcpcb.com/partdetail/24078-0603WAF220JT5E/C23345,0603WAF220JT5E,N,Res 22R 1% 100mW 0603,33
-"R8,R9,R23",C22787,3,120R,,,,Resistor_SMD:R_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1200T5E_C22787.pdf,https://jlcpcb.com/partdetail/23514-0603WAF1200T5E/C22787,0603WAF1200T5E,N,Res 120R 1% 100mW 0603,34
-R10,C22978,1,3.3k,,,,Resistor_SMD:R_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3301T5E_C22978.pdf,https://jlcpcb.com/partdetail/23705-0603WAF3301T5E/C22978,0603WAF3301T5E,N,Res 3k3 1% 100mW 0603,35
-R11,C25810,1,18k,,,,Resistor_SMD:R_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1802T5E_C25810.pdf,https://jlcpcb.com/partdetail/26553-0603WAF1802T5E/C25810,0603WAF1802T5E,N,Res 18k 1% 100mW 0603,36
-R12,C22809,1,15k,,,,Resistor_SMD:R_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1502T5E_C22809.pdf,https://jlcpcb.com/partdetail/23536-0603WAF1502T5E/C22809,0603WAF1502T5E,N,Res 15k 1% 100mW 0603,37
-"R13,R28,R38,R39",C25804,4,10k,,,,Resistor_SMD:R_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2206010045_UNI-ROYAL-Uniroyal-Elec-0603WAF1002T5E_C25804.pdf,https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804,0603WAF1002T5E,N,Res 10k 1% 100mW 0603,38
-R14,C22961,1,220k,,,,Resistor_SMD:R_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF2203T5E_C22961.pdf,https://jlcpcb.com/partdetail/23688-0603WAF2203T5E/C22961,0603WAF2203T5E,N,Res 220k 1% 100mW 0603,39
-"R15,R17,R19,R21",C23153,4,39k,,,,Resistor_SMD:R_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF3902T5E_C23153.pdf,https://jlcpcb.com/partdetail/23880-0603WAF3902T5E/C23153,0603WAF3902T5E,N,Res 39k 1% 100mW 0603,40
-"R16,R18,R20,R22,R42,R43,R44",C4190,7,2k2,,,,Resistor_SMD:R_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2206010230_UNI-ROYAL-Uniroyal-Elec-0603WAF2201T5E_C4190.pdf,https://jlcpcb.com/partdetail/4597-0603WAF2201T5E/C4190,0603WAF2201T5E,N,Res 2k2 1% 100mW 0603,41
-"R24,R29,R32",C469426,3,0.0005R,,,,CustomFootprints:2512_SHUNT,https://datasheet.lcsc.com/lcsc/1912181811_Shenzhen-Yezhan-Elec--ASR-M-3-0-5F_C469426.pdf,https://jlcpcb.com/partdetail/Shenzhen_Yezhan_elec-ASR_M_3_05F/C469426,ASR-M-3-0.5F,N,Shunt 0.0005R 1% 6W 2512,42
-"R25,R26,R30,R31,R33,R34",C23164,6,4.7R,,,,Resistor_SMD:R_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2206010116_UNI-ROYAL-Uniroyal-Elec-0603WAF4701T5E_C23162.pdf,https://jlcpcb.com/partdetail/23889-0603WAF4701T5E/C23162,0603WAF4701T5E,N,Res 4.7 1% 100mW 0603,43
-R27,C76589,1,NTC 10k,,,,Resistor_SMD:R_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2304140030_TDK-NTCG163JF103FT1_C76589.pdf,https://jlcpcb.com/partdetail/Tdk-NTCG163JF103FT1/C76589,NTCG163JF103FT1,N,NTC 10k 1% 3380k 1% 0603,44
-"R35,R36,R37",C22775,3,100R,,,,Resistor_SMD:R_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1000T5E_C22775.pdf,https://jlcpcb.com/partdetail/23502-0603WAF1000T5E/C22775,0603WAF1000T5E,N,Res 100R 1% 100mW 0603,45
-"R40,R41",C21190,2,1k,,,,Resistor_SMD:R_0603_1608Metric,https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf,https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190,0603WAF1001T5E,N,Res 1k 1% 100mW 0603,46
-U1,C15742,1,STM32F40X_LQFP64,,,,Package_QFP:LQFP-64_10x10mm_P0.5mm,https://datasheet.lcsc.com/lcsc/2304140030_STMicroelectronics-STM32F405RGT6_C15742.pdf,https://jlcpcb.com/partdetail/Stmicroelectronics-STM32F405RGT6/C15742,STM32F405RGT6,Y,IC STM32F405RGT6 Cortex M4 1MB LQFP64,47
-U2,C477918,1,LM3671,,,,Package_TO_SOT_SMD:SOT-23-5,https://www.ti.com/lit/ds/symlink/lm3671.pdf?ts=1690266521615&ref_url=https%253A%252F%252Fwww.google.com%252F,https://jlcpcb.com/partdetail/TexasInstruments-LM3671MFX_3_3NOPB/C477918,LM3671MFX-3.3/NOPB,Y,IC LM3671 REG BUCK 5Vin 3.3Vout 600MA SOT23-5,48
-U3,C98969,1,DRV8301,,,,Package_SO:HTSSOP-56-1EP_6.1x14mm_P0.5mm_EP3.61x6.35mm,https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fdrv8301,https://jlcpcb.com/partdetail/TexasInstruments-DRV8301DCAR/C98969,DRV8301DCAR,Y,IC MOTOR DRIVER 6V-60V 56HTSSOP,49
-U4,C124020,1,TJA1051TK-3,,,,Package_DFN_QFN:DFN-8-1EP_3x3mm_P0.65mm_EP1.55x2.4mm,https://www.nxp.com/docs/en/data-sheet/TJA1051.pdf,https://jlcpcb.com/partdetail/NxpSemicon-TJA1051TK_3118/C124020,"TJA1051TK/3,118",Y,IC TRANSCEIVER HALF CANBUS 1/1 8HVSON,50
-"U5,U6,U7",C495342,3,AD8418,,,,Package_SO:SOIC-8_3.9x4.9mm_P1.27mm,https://www.analog.com/media/en/technical-documentation/data-sheets/AD8418.pdf,https://jlcpcb.com/partdetail/AnalogDevices-AD8418WBRZRL/C495342,AD8418WBRZ-RL,Y,IC AD8418 CURR SENS AMP 1 CIRCUIT 8SOIC,51
-U10,C967633,1,LSM6DS3TR-C,,,,Package_LGA:Bosch_LGA-14_3x2.5mm_P0.5mm,https://www.lcsc.com/datasheet/lcsc_datasheet_2102261805_STMicroelectronics-LSM6DS3TR-C_C967633.pdf,,,Y,Accelerometer gyroscope LGA-14(2.5x3) Accelerometers ROHS,52
-X1,C115962,1,8m,,,,Crystal:Crystal_SMD_5032-2Pin_5.0x3.2mm,~,https://jlcpcb.com/partdetail/YangxingTech-X50328MSB2GI/C115962,X50328MSB2GI,N,Two pin crystal,53
+Designator,JLCPCB Part #,Qty,Value
+"C2,C8",C1644,2,15p
+"C3,C4,C5,C6,C9,C10,C11,C12,C13,C14,C15,C17,C20,C31,C33,C34,C35,C36,C38,C42,C64",C23630,21,2.2uF
+"C7,C28,C58,C61,C62",C14663,5,100n
+C16,C1631,1,6.8n
+C18,C107035,1,120p
+C19,C21122,1,22n
+"C21,C32",C16133,2,100u
+C22,C1596,1,15n
+"C23,C24,C25",C21120,3,220n
+"C26,C27,C37,C39,C40,C41,C43,C44",C385987,8,4.7u_100v
+"C29,C30,C45",C53987,3,4.7n
+"C48,C49,C50,C51",C7471900,4,220u_63v
+D2,C2286,1,RED
+D3,C2290,1,WHITE
+D4,C2923951,1,DIODE
+D5,C129544,1,TVS 5V
+"H1,H2,H3,H4",,4,MountingHole
+L1,C383398,1,2.2u
+L2,C266430,1,22u
+P1,C132560,1,USB_OTG
+"P2,P5,P6",C23390337,1,4PINCONN
+"P3,P4",C160405,1,6PINCONN
+P8,,1,PH_C
+P9,,1,PH_B
+P10,,1,PH_A
+P11,,1,SUPPLY
+P12,,1,GND
+"Q1,Q2,Q3,Q4,Q5,Q6",C501008,6,STL130N6F7
+R1,,1,DNP
+"R2,R3",C23345,2,22R
+"R8,R9,R23",C22787,3,120R
+R10,C22978,1,3.3k
+R11,C25810,1,18k
+R12,C22809,1,15k
+"R13,R28,R38,R39",C25804,4,10k
+R14,C22961,1,220k
+"R15,R17,R19,R21",C23153,4,39k
+"R16,R18,R20,R22,R42,R43,R44",C4190,7,2k2
+"R24,R29,R32",C469426,3,0.0005R
+"R25,R26,R30,R31,R33,R34",C23164,6,4.7R
+R27,C76589,1,NTC 10k
+"R35,R36,R37",C22775,3,100R
+"R40,R41",C21190,2,1k
+U1,C15742,1,STM32F40X_LQFP64
+U2,C477918,1,LM3671
+U3,C98969,1,DRV8301
+U4,C124020,1,TJA1051TK-3
+"U5,U6,U7",C495342,3,AD8418
+U10,C967633,1,LSM6DS3TR-C
+X1,C115962,1,8m
