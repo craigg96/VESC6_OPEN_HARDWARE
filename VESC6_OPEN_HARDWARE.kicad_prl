@@ -13,7 +13,7 @@
       "shapes": 1.0,
       "tracks": 1.0,
       "vias": 1.0,
-      "zones": 0.8399999737739563
+      "zones": 1.0
     },
     "ratsnest_display_mode": 0,
     "selection_filter": {
@@ -46,7 +46,7 @@
       "zones",
       "shapes"
     ],
-    "visible_layers": "ffffffff_ffffffff_fffffdf7_ffffffab",
+    "visible_layers": "ffffffff_ffffffff_fffffdf7_ffffffff",
     "zone_display_mode": 0
   },
   "git": {

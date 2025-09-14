@@ -10,119 +10,6 @@
 		(comment 1 "Drawn By: CG")
 	)
 	(lib_symbols
-		(symbol "BLDC_4-rescue:R-RESCUE-BLDC_4"
-			(pin_numbers
-				(hide yes)
-			)
-			(pin_names
-				(offset 0)
-			)
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "R"
-				(at 2.032 0 90)
-				(effects
-					(font
-						(size 1.016 1.016)
-					)
-				)
-			)
-			(property "Value" "R-RESCUE-BLDC_4"
-				(at 0.1778 0.0254 90)
-				(effects
-					(font
-						(size 1.016 1.016)
-					)
-				)
-			)
-			(property "Footprint" ""
-				(at -1.778 0 90)
-				(effects
-					(font
-						(size 0.762 0.762)
-					)
-				)
-			)
-			(property "Datasheet" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 0.762 0.762)
-					)
-				)
-			)
-			(property "Description" ""
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "R? SM0603 SM0805 R?-* SM1206"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "R-RESCUE-BLDC_4_0_1"
-				(rectangle
-					(start -1.016 3.81)
-					(end 1.016 -3.81)
-					(stroke
-						(width 0.3048)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "R-RESCUE-BLDC_4_1_1"
-				(pin passive line
-					(at 0 6.35 270)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "1"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 0 -6.35 90)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.524 1.524)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "Connector_Generic:Conn_01x04"
 			(pin_names
 				(offset 1.016)
@@ -1867,12 +1754,6 @@
 		(uuid "e9918854-fcd4-40e2-be95-490deb4ecbab")
 	)
 	(junction
-		(at 194.31 149.86)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "eae0ab9f-65b2-44d3-aba7-873c3227fba7")
-	)
-	(junction
 		(at 34.29 77.47)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -1887,16 +1768,6 @@
 	(no_connect
 		(at 62.23 41.91)
 		(uuid "7afa54c4-2181-41d3-81f7-39efc497ecae")
-	)
-	(wire
-		(pts
-			(xy 194.31 146.05) (xy 186.69 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "00e38d63-5436-49db-81f5-697421f168fc")
 	)
 	(wire
 		(pts
@@ -2210,16 +2081,6 @@
 	)
 	(wire
 		(pts
-			(xy 168.91 146.05) (xy 173.99 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4f411f68-04bd-4175-a406-bcaa4cf6601e")
-	)
-	(wire
-		(pts
 			(xy 48.26 46.99) (xy 52.07 46.99)
 		)
 		(stroke
@@ -2300,16 +2161,6 @@
 	)
 	(wire
 		(pts
-			(xy 156.21 146.05) (xy 156.21 143.51)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f675e5f-8fe6-4148-baf1-da97afc770f8")
-	)
-	(wire
-		(pts
 			(xy 149.86 99.06) (xy 213.36 99.06)
 		)
 		(stroke
@@ -2317,16 +2168,6 @@
 			(type default)
 		)
 		(uuid "6f80f798-dc24-438f-a1eb-4ee2936267c8")
-	)
-	(wire
-		(pts
-			(xy 194.31 149.86) (xy 194.31 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "70e4263f-d95a-4431-b3f3-cfc800c82056")
 	)
 	(wire
 		(pts
@@ -2427,16 +2268,6 @@
 			(type default)
 		)
 		(uuid "89c0bc4d-eee5-4a77-ac35-d30b35db5cbe")
-	)
-	(wire
-		(pts
-			(xy 161.29 146.05) (xy 156.21 146.05)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "917920ab-0c6e-4927-974d-ef342cdd4f63")
 	)
 	(wire
 		(pts
@@ -4233,109 +4064,6 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 165.1 146.05 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005aec6db9")
-		(property "Reference" "D1"
-			(at 162.56 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "BLUE"
-			(at 172.72 144.78 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Diode_SMD:D_0603_1608Metric"
-			(at 165.1 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/1811101510_Everlight-Elec-19-217-BHC-ZL1M2RY-3T_C72041.pdf"
-			(at 165.1 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "LED Blue 120deg 110mW 0603"
-			(at 165.1 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC part no." "C2288"
-			(at 165.1 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Critical" "N"
-			(at 165.1 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link" "https://jlcpcb.com/partdetail/EverlightElec-19_217_BHC_ZL1M2RY3T/C72041"
-			(at 165.1 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFP" "19-217/BHC-ZL1M2RY/3T"
-			(at 165.1 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "d4a547ec-9472-4c3c-a502-f52fac596ab0")
-		)
-		(pin "2"
-			(uuid "e6e9e603-8859-43b5-850b-f99258142574")
-		)
-		(instances
-			(project ""
-				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
-					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:LED")
 		(at 165.1 149.86 180)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4454,7 +4182,7 @@
 				)
 			)
 		)
-		(property "Value" "GREEN"
+		(property "Value" "WHITE"
 			(at 173.99 152.4 0)
 			(effects
 				(font
@@ -4489,7 +4217,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC part no." "C12624"
+		(property "LCSC part no." "C2290"
 			(at 165.1 153.67 0)
 			(effects
 				(font
@@ -4805,70 +4533,6 @@
 			(project ""
 				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
 					(reference "#PWR023")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:VCC")
-		(at 156.21 143.51 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "00000000-0000-0000-0000-00005aeec7e0")
-		(property "Reference" "#PWR021"
-			(at 156.21 147.32 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "VCC"
-			(at 156.6418 139.1158 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 156.21 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 156.21 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 156.21 143.51 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9002eef7-4225-40e4-98bf-1dae3319d3ae")
-		)
-		(instances
-			(project ""
-				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
-					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -5371,109 +5035,6 @@
 			(project ""
 				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
 					(reference "#PWR0117")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "BLDC_4-rescue:R-RESCUE-BLDC_4")
-		(at 180.34 146.05 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "429b000b-e6f6-4d3d-950f-2e72ea158301")
-		(property "Reference" "R7"
-			(at 180.34 143.51 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "1k"
-			(at 180.34 146.05 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 180.34 146.05 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2206010130_UNI-ROYAL-Uniroyal-Elec-0603WAF1001T5E_C21190.pdf"
-			(at 180.34 146.05 0)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Res 1k 1% 100mW 0603"
-			(at 180.34 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LCSC part no." "C21190"
-			(at 180.34 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Critical" "N"
-			(at 180.34 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Link" "https://jlcpcb.com/partdetail/21904-0603WAF1001T5E/C21190"
-			(at 180.34 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MFP" "0603WAF1001T5E"
-			(at 180.34 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "76fbd85d-2265-4697-9aca-f5babf51bf6b")
-		)
-		(pin "2"
-			(uuid "3b45ca0f-5de7-4870-a543-a0e54be65d4a")
-		)
-		(instances
-			(project ""
-				(path "/8bc2c25a-a1f1-4ce8-b96a-a4f8f4c35079"
-					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -6014,7 +5575,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC part no." "23390339"
+		(property "LCSC part no." "C160405"
 			(at 54.61 153.67 0)
 			(effects
 				(font
