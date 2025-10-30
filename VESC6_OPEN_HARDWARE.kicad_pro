@@ -510,7 +510,7 @@
       "plot": "FABRICATION/RELEASE1/",
       "pos_files": "FABRICATION/RELEASE1/cpl/",
       "specctra_dsn": "",
-      "step": "FABRICATION/HD-ID607-C/ID0607_C.step",
+      "step": "3D/Release1.stl",
       "svg": "",
       "vrml": ""
     },

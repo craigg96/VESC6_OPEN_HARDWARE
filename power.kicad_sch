@@ -7391,6 +7391,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC part no." "C7200700"
+			(at 19.05 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "72f946d0-1e49-49fd-92cb-b5f25e429ffa")
 		)
@@ -7470,6 +7478,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC part no." "C7200700 "
+			(at 113.03 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -7553,6 +7569,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC part no." "C7200700 "
+			(at 200.66 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9b3785c7-8b6f-43bc-8e54-b37724f649b5")
 		)
@@ -7634,6 +7658,14 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC part no." "C7200700 "
+			(at 262.89 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "d5d0b0a9-eb22-4bdd-9cda-96a2b8d0eb11")
 		)
@@ -7713,6 +7745,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "LCSC part no." "C7200700 "
+			(at 271.78 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
