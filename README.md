@@ -1,14 +1,15 @@
 # VESC6_OPEN_HARDWARE
 Open source implementation of the vesc 6 hardware schematics published by Benjamin Vedder. Built in KiCAD and contains JLCPCB component IDs for everthing populated on the board so anyone can order their own!
 
-Economy PCBA maufacture can be used appart from the IMU - 5 boards approx £160GBP
+Economy PCBA maufacture can be used without placing the IMU - 5 boards approx £160GBP
 So standard PCBA manufacture with placing the IMU costs more - 5 boards approx £200GBP
 
-Board was designed with 2 layers initially but switched to 4 for better grounding and high current supply to fets.
+Release 1 has been flashed and fully tested with all functions working as expected inclusing the IMU.
+Custom board software build as well as hardware configuration files are available in the software folder.
 
-Release 1 has been flashed and fully tested with all functions working as expected.
-High power sustained tests are yet to be done.
-Custom board firmware including bringup guide to come.
+Hardware has been tested by several months of daily use pulling peak power over 1500W with no issues.
+MOSFETS used are rated to switch up to 130A, software limits it to 120A.
+Holes either side of the MOSFETs allow for even clamping of a simple rectangular heatsink.
 
 ![image](https://github.com/craigg96/VESC6_OPEN_HARDWARE/blob/main/Images/top.png?raw=true "top")
 ![image](https://github.com/craigg96/VESC6_OPEN_HARDWARE/blob/main/Images/isometric.png?raw=true "isometric")
